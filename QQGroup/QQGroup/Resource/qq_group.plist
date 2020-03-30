@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>我的好友</string>
+		<key>online</key>
+		<string>2</string>
+		<key>friends</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>naruto-10.png</string>
+				<key>message</key>
+				<string>佐助来决斗呀</string>
+				<key>name</key>
+				<string>鸣人</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>naruto-4.png</string>
+				<key>message</key>
+				<string>佐助你在了哪里？我真的好想你</string>
+				<key>name</key>
+				<string>小樱</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的老师</string>
+		<key>online</key>
+		<string>1</string>
+		<key>friends</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>naruto-5.png</string>
+				<key>message</key>
+				<string>来上课了！！</string>
+				<key>name</key>
+				<string>卡卡西</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
